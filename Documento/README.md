@@ -147,10 +147,10 @@ del Registro Civil y los Servicios Médicos Forenses, complementados con
 actas de defunción emitidas por el Registro Civil y con los cuadernos
 estadísticos proporcionados por las Agencias del Ministerio Público.
 
-**Defunciones registradas de enero a junio**
-![](media/image1.png){width="6.5in", height="3.2in"}
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
-**Nota: Información preliminar.**
+**Defunciones registradas de enero a junio**\
+![](media/image1.png)\
+**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
+**Nota: Información preliminar.**~
 
 Durante el periodo enero-junio de 2021, 58.1% (337,100) de las
 defunciones correspondieron a hombres, mientras que 41.8% (242,156) a
