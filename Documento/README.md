@@ -148,8 +148,7 @@ actas de defunción emitidas por el Registro Civil y con los cuadernos
 estadísticos proporcionados por las Agencias del Ministerio Público.
 
 **Defunciones registradas de enero a junio**
-![](media/image1.png){width="6.5in", height="3.2in"} 
-
+![](media/image1.png){width="6.5in", height="3.2in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
@@ -163,9 +162,9 @@ Exceso de mortalidad
 Si bien se reportan las defunciones registradas de enero a junio de
 2021 (579,596) para estimar el exceso de mortalidad derivado de la
 pandemia, es necesario considerar las defunciones ocurridas de enero de
-2020 a junio de 2021, las cuales suman 1,649,031**[^2]**, lo anterior
+2020 a junio de 2021, las cuales suman 1,649,031[^2], lo anterior
 con la finalidad de observar el comportamiento completo de esta, como lo
-recomienda la Organización Panamericana de la Salud (OPS)** [^3]**.
+recomienda la Organización Panamericana de la Salud (OPS)[^3].
 
 A partir de la metodología de la OPS, basada en canales endémicos y
 semanas epidemiológicas[^4], se obtienen los resultados a nivel nacional
@@ -173,7 +172,7 @@ que se muestran en la gráfica siguiente.
 
 De acuerdo con la información registrada durante el periodo 2015-2019,
 se esperaban de enero de 2020 a junio de 2021 un total de 1,116,482
-defunciones y ocurrieron** **1,649,031.Con** **base en estos resultados
+defunciones y ocurrieron 1,649,031. Con base en estos resultados
 se tiene un exceso de mortalidad por todas las causas de 532,549,
 equivalente a 47.7 por ciento.
 
@@ -229,7 +228,6 @@ años.
 
 **Tasas de defunción por grupos de edad por cada 1,000 habitantes**[^6]
 **2020-2021, enero -- junio**
-
 ![](media/image5.png){width="6.2in",height="2.4in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021.**
 **Nota: Información preliminar.**
@@ -239,7 +237,6 @@ de forma preliminar, 58.1% fueron hombres, 41.8% mujeres y en 340 casos
 no se especificó el sexo (0.1%).
 
 **Defunciones registradas por sexo**
-
 ![](media/image6.png){width="2.4in",height="2.2in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
@@ -290,7 +287,7 @@ desglosadas por sexo.
 
 **Diez principales causas**[^9]
 **de muerte desglosadas por sexo Enero-junio 2021**
-![](media/image10.wmf){width="4.7in", height="5.7in"}
+![](media/image10.png){width="4.7in", height="5.7in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
@@ -343,7 +340,7 @@ muerte en el total y por sexo.
 
 **Tasas de defunciones por enfermedades del corazón por cada 10,000 habitantes**
 ![](media/image14.png){width="6.0in",height="2.0in"}
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021*
+**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**
 **Nota: Información preliminar.**
 
 El denominador de la tasa para el periodo 2020 corresponde a las
@@ -362,7 +359,7 @@ mujeres.
 **Tasas de defunciones por diabetes mellitus por cada 10,000 habitantes**
 ![](media/image15.png){width="6.2in", height="1.9in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**
-**Nota: Información preliminar.*
+**Nota: Información preliminar.**
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -379,7 +376,7 @@ referencia en el del año inmediato anterior.
 
 **Tasas de defunciones por tumores malignos por cada 10,000 habitantes**
 ![](media/image16.png){width="6.2in", height="1.7in"}
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*
+**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.**
 **Nota: Información preliminar.**
 
 El denominador de la tasa para el periodo 2020 corresponde a las
@@ -397,7 +394,7 @@ representan 99.8% con 20,916 sucesos.
 
 **Tasas de defunciones por influenza y neumonía por cada 10,000 habitantes**
 ![](media/image17.png){width="6.2in",height="2.1in"}
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021*
+**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**
 **Nota: Información preliminar.**
 
 El denominador de la tasa para el periodo 2020 corresponde a las
@@ -501,12 +498,12 @@ La presente sección tiene como finalidad describir el exceso de
 mortalidad observado en el país entre enero de 2020 y junio de 2021 como
 resultado de la pandemia generada por el virus SARS-CoV-2, causante de
 la COVID-19. Para ello, se consideró la metodología propuesta por la
-Organización Panamericana de la Salud (OPS)**[^15]**, utilizando como
+Organización Panamericana de la Salud (OPS)[^15], utilizando como
 insumo la información de las principales causas de muerte publicadas por
 el INEGI ocurridas de 2015 a 2020 y la información preliminar del
 periodo enero-junio de 2021. Estos datos se usan para calcular y
 construir gráficas de los canales endémicos y con ello analizar la
-mortalidad por semana epidemiológica**[^16]**.
+mortalidad por semana epidemiológica[^16].
 
 Es importante destacar que, si bien las defunciones registradas de enero
 a junio de 2021 fueron 579,596, las defunciones ocurridas consideradas
