@@ -732,27 +732,26 @@ siguientes criterios.**
     siguientes agrupamientos con base en los códigos de la Lista
     Mexicana.
 
-  ------------------------------------------------------------------------------------------------------------ ---------------------
-  Enfermedades infecciosas intestinales                                                                        01
-  Sífilis                                                                                                      04A-04C
-  Hepatitis viral                                                                                              06J-06K
-  COVID-19                                                                                                     06T
-  Tumores malignos                                                                                             08-15
-  Anemias                                                                                                      19A-19B
-  Enfermedades de la glándula tiroides                                                                         20A-20C
-  Desnutrición y otras deficiencias nutricionales                                                              21
-  Enfermedades del corazón, excepto paro cardíaco                                                              26-29
-  Enfermedades cerebrovasculares                                                                               30
-  Infecciones respiratorias agudas                                                                             32A-32D, 33A, 33K
-  Influenza y neumonía                                                                                         33B-33C
-  Bronquitis crónica y la no especificada, enfisema y asma                                                     33D, 33E
-  Hernia de la cavidad abdominal                                                                               35F-35G
-  Enfermedades del hígado                                                                                      35L-35M
-  Embarazo, parto y puerperio, excepto otras causas obstétricas directas que se incluyen en las demás causas   43-45 (excepto 43R)
-  Ciertas afecciones originadas en el periodo perinatal                                                        46
-  Malformaciones congénitas, deformidades y anomalías cromosómicas                                             47
-  Accidentes                                                                                                   E49-E53, E57-E58
-  ------------------------------------------------------------------------------------------------------------ ---------------------
+
+| Enfermedades infecciosas intestinales | 01 | 
+| Sífilis                               |  04A-04C | 
+| Hepatitis viral                       |  06J-06K | 
+| COVID-19                              |  06T | 
+| Tumores malignos                      |  08-15 | 
+| Anemias                               |  19A-19B | 
+| Enfermedades de la glándula tiroides  |  20A-20C | 
+| Desnutrición y otras deficiencias nutricionales |  21 | 
+| Enfermedades del corazón, excepto paro cardíaco |  26-29 | 
+| Enfermedades cerebrovasculares        | 30 | 
+| Infecciones respiratorias agudas      | 32A-32D, 33A, 33K | 
+| Influenza y neumonía                  | 33B-33C | 
+| Bronquitis crónica y la no especificada, enfisema y asma | 33D, 33E | 
+| Hernia de la cavidad abdominal        | 35F-35G | 
+| Enfermedades del hígado              | 35L-35M | 
+| Embarazo, parto y puerperio, excepto otras causas obstétricas directas que se incluyen en las demás causas                      | 43-45 (excepto 43R) | 
+| Ciertas afecciones originadas en el periodo perinatal            | 46 | 
+| Malformaciones congénitas, deformidades y anomalías cromosómicas | 47 | 
+| Accidentes                                         | E49-E53, E57-E58 | 
 
 2.  Para la selección de las principales causas se excluyen las
     categorías consideradas en la CIE-10 como mal definidas, que en la
