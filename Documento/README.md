@@ -834,7 +834,7 @@ publicadas en octubre de 2022.
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**
 **Preliminar enero-junio 2021.**
-![](media/image44.wmf){width="5.2in",height="7.3in"}
+![](media/image44.png){width="5.2in",height="7.3in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
