@@ -5,85 +5,65 @@
 ÍNDICE
 =========
 
-[Antecedentes 4](#antecedentes)
+[Antecedentes](#antecedentes)
 
-[Estadísticas sobre mortalidad 5](#estadísticas-sobre-mortalidad)
+[Estadísticas sobre mortalidad](#estadísticas-sobre-mortalidad)
 
-[Exceso de mortalidad 6](#exceso-de-mortalidad)
+[Exceso de mortalidad](#exceso-de-mortalidad)
 
-[Causas de muerte 7](#causas-de-muerte)
+[Causas de muerte](#causas-de-muerte)
 
-[Principales resultados preliminares de enero a junio de 2021
-9](#principales-resultados-preliminares-de-enero-a-junio-de-2021)
+[Principales resultados preliminares de enero a junio de 2021](#principales-resultados-preliminares-de-enero-a-junio-de-2021)
 
-[Total de defunciones 9](#total-de-defunciones)
+[Total de defunciones](#total-de-defunciones)
 
-[Causas de la defunción 15](#causas-de-la-defunción)
+[Causas de la defunción](#causas-de-la-defunción)
 
-[Defunciones por la COVID-19 16](#defunciones-por-la-covid-19)
+[Defunciones por la COVID-19](#defunciones-por-la-covid-19)
 
-[Defunciones ocurridas por la COVID-19 por semana epidemiológica
-16](#defunciones-ocurridas-por-la-covid-19-por-semana-epidemiológica)
+[Defunciones ocurridas por la COVID-19 por semana epidemiológica](#defunciones-ocurridas-por-la-covid-19-por-semana-epidemiológica)
 
-[Defunciones por enfermedades del corazón
-18](#defunciones-por-enfermedades-del-corazón)
+[Defunciones por enfermedades del corazón](#defunciones-por-enfermedades-del-corazón)
 
-[Defunciones por diabetes mellitus
-19](#defunciones-por-diabetes-mellitus)
+[Defunciones por diabetes mellitus](#defunciones-por-diabetes-mellitus)
 
-[Defunciones por tumores malignos 19](#defunciones-por-tumores-malignos)
+[Defunciones por tumores malignos](#defunciones-por-tumores-malignos)
 
-[Defunciones por influenza y neumonía
-20](#defunciones-por-influenza-y-neumonía)
+[Defunciones por influenza y neumonía](#defunciones-por-influenza-y-neumonía)
 
-[Defunciones por enfermedades del hígado
-20](#defunciones-por-enfermedades-del-hígado)
+[Defunciones por enfermedades del hígado](#defunciones-por-enfermedades-del-hígado)
 
-[Defunciones por enfermedades cerebrovasculares
-21](#defunciones-por-enfermedades-cerebrovasculares)
+[Defunciones por enfermedades cerebrovasculares](#defunciones-por-enfermedades-cerebrovasculares)
 
-[Defunciones por agresiones (homicidios)
-21](#defunciones-por-agresiones-homicidios)
+[Defunciones por agresiones (homicidios)](#defunciones-por-agresiones-homicidios)
 
-[Defunciones por accidentes 22](#defunciones-por-accidentes)
+[Defunciones por accidentes](#defunciones-por-accidentes)
 
-[Defunciones por enfermedades pulmonares obstructivas crónicas
-23](#defunciones-por-enfermedades-pulmonares-obstructivas-crónicas)
+[Defunciones por enfermedades pulmonares obstructivas crónicas](#defunciones-por-enfermedades-pulmonares-obstructivas-crónicas)
 
-[Estadísticas de exceso de mortalidad por las principales causas de
-muerte
-24](#estadísticas-de-exceso-de-mortalidad-por-las-principales-causas-de-muerte)
+[Estadísticas de exceso de mortalidad por las principales causas de muerte](#estadísticas-de-exceso-de-mortalidad-por-las-principales-causas-de-muerte)
 
-[Resultados 24](#resultados)
+[Resultados](#resultados)
 
-[Exceso de mortalidad por enfermedades del corazón.
-25](#exceso-de-mortalidad-por-enfermedades-del-corazón.)
+[Exceso de mortalidad por enfermedades del corazón](#exceso-de-mortalidad-por-enfermedades-del-corazón)
 
-[Exceso de mortalidad por diabetes mellitus.
-25](#exceso-de-mortalidad-por-diabetes-mellitus.)
+[Exceso de mortalidad por diabetes mellitus](#exceso-de-mortalidad-por-diabetes-mellitus)
 
-[Exceso de mortalidad por tumores malignos.
-26](#exceso-de-mortalidad-por-tumores-malignos.)
+[Exceso de mortalidad por tumores malignos](#exceso-de-mortalidad-por-tumores-malignos)
 
-[Exceso de mortalidad por influenza y neumonía.
-27](#exceso-de-mortalidad-por-influenza-y-neumonía.)
+[Exceso de mortalidad por influenza y neumonía](#exceso-de-mortalidad-por-influenza-y-neumonía)
 
-[Exceso de mortalidad por enfermedades del hígado.
-27](#exceso-de-mortalidad-por-enfermedades-del-hígado.)
+[Exceso de mortalidad por enfermedades del hígado](#exceso-de-mortalidad-por-enfermedades-del-hígado)
 
-[Exceso de mortalidad por enfermedades cerebrovasculares.
-28](#exceso-de-mortalidad-por-enfermedades-cerebrovasculares.)
+[Exceso de mortalidad por enfermedades cerebrovasculares](#exceso-de-mortalidad-por-enfermedades-cerebrovasculares)
 
-[Exceso de mortalidad por agresiones (homicidios).
-28](#exceso-de-mortalidad-por-agresiones-homicidios.)
+[Exceso de mortalidad por agresiones (homicidios)](#exceso-de-mortalidad-por-agresiones-homicidios)
 
-[Exceso de mortalidad por accidentes.
-29](#exceso-de-mortalidad-por-accidentes.)
+[Exceso de mortalidad por accidentes](#exceso-de-mortalidad-por-accidentes)
 
-[Exceso de mortalidad por enfermedades pulmonares obstructivas crónicas.
-29](#exceso-de-mortalidad-por-enfermedades-pulmonares-obstructivas-crónicas.)
+[Exceso de mortalidad por enfermedades pulmonares obstructivas crónicas](#exceso-de-mortalidad-por-enfermedades-pulmonares-obstructivas-crónicas)
 
-[Comentarios finales 30](#comentarios-finales)
+[Comentarios finales](#comentarios-finales)
 
 [Bibliografía 31](#bibliografía)
 
@@ -552,8 +532,8 @@ Como parte de los presentes resultados de exceso de mortalidad y para
 los mismos periodos, se realizó la estimación para cada una de las
 principales afecciones, mismos que se detallan a continuación.
 
-Exceso de mortalidad por enfermedades del corazón.
---------------------------------------------------
+Exceso de mortalidad por enfermedades del corazón
+-------------------------------------------------
 
 Para el caso de las defunciones provocadas por enfermedades del corazón
 se esperaban 232,658 defunciones y ocurrieron 328,970, por lo que el
@@ -566,8 +546,8 @@ exceso de mortalidad en este rubro es de 96,312 decesos que representan
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
-Exceso de mortalidad por diabetes mellitus.
--------------------------------------------
+Exceso de mortalidad por diabetes mellitus
+------------------------------------------
 
 **Para las defunciones a causa de diabetes mellitus se esperaban 164,889
 defunciones y ocurrieron 223,141, por lo que el exceso de mortalidad en
@@ -579,8 +559,8 @@ este apartado es de 58,252 decesos que representan 35.3 por ciento.**
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
-Exceso de mortalidad por tumores malignos.
-------------------------------------------
+Exceso de mortalidad por tumores malignos
+-----------------------------------------
 
 Para el caso de las defunciones provocadas por tumores malignos se
 esperaban 130,955 defunciones y ocurrieron 133,134, por lo que el exceso
@@ -593,8 +573,8 @@ de mortalidad en este rubro es de 2,179 decesos los cuales representan
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
-Exceso de mortalidad por influenza y neumonía.
-----------------------------------------------
+Exceso de mortalidad por influenza y neumonía
+---------------------------------------------
 
 Para las defunciones a causa de influenza y neumonía se esperaban
 47,770 defunciones y ocurrieron 78,478, por lo que el exceso de
@@ -607,8 +587,8 @@ por ciento.
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
-Exceso de mortalidad por enfermedades del hígado.
--------------------------------------------------
+Exceso de mortalidad por enfermedades del hígado
+------------------------------------------------
 
 Para el caso de las defunciones por enfermedades del hígado se esperaban
 60,697 defunciones y ocurrieron 61,398, por lo que el exceso de
@@ -621,8 +601,8 @@ ciento.
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
-Exceso de mortalidad por enfermedades cerebrovasculares.
---------------------------------------------------------
+Exceso de mortalidad por enfermedades cerebrovasculares
+-------------------------------------------------------
 
 Para las defunciones a causa de enfermedades cerebrovasculares se
 esperaban 55,234 defunciones y ocurrieron 55,101, por lo que el exceso
@@ -635,8 +615,8 @@ de mortalidad en este apartado es de 133 defunciones que representan
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
-Exceso de mortalidad por agresiones (homicidios).
--------------------------------------------------
+Exceso de mortalidad por agresiones (homicidios)
+------------------------------------------------
 
 En el caso de las defunciones provocadas por agresiones (homicidios) se
 esperaban 54,097 defunciones y ocurrieron 51,931, lo que representa un
@@ -648,8 +628,8 @@ total de 2,166 decesos que equivalen a 4.0% por debajo de lo esperado.
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
-Exceso de mortalidad por accidentes.
-------------------------------------
+Exceso de mortalidad por accidentes
+-----------------------------------
 
 Para las defunciones a causa de accidentes se esperaban 56,947
 defunciones y ocurrieron 48,472, lo que representa un total de 8,475
@@ -661,8 +641,8 @@ decesos que equivalen a 14.9% por debajo de lo esperado.
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
-Exceso de mortalidad por enfermedades pulmonares obstructivas crónicas.
------------------------------------------------------------------------
+Exceso de mortalidad por enfermedades pulmonares obstructivas crónicas
+----------------------------------------------------------------------
 
 Para el caso de las defunciones provocadas por enfermedades pulmonares
 obstructivas crónicas se esperaban 38,839 defunciones y ocurrieron
@@ -707,9 +687,6 @@ COVID-19. Grupo interinstitucional para la estimación del exceso de
 mortalidad por todas las causas. (Serie 1 a 28). Disponible en:
 <https://coronavirus.gob.mx/personal-de-salud/documentos-de-consulta/>
 
-INEGI, (2022). Mortalidad.\
-https://www.inegi.org.mx/programas/mortalidad/\#Tabulados
-
 INEGI, (2018). Nota técnica sobre las estadísticas de defunciones
 registradas 2017. Disponible en:\
 <https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2017_nota_tecnica.pdf>
@@ -724,11 +701,14 @@ registradas 2019. Disponible en:\
 
 INEGI. (2021), Defunciones registradas (mortalidad general) -
 Microdatos. Disponible en:
-<https://www.inegi.org.mx/programas/mortalidad/#Microdatos>**
+<https://www.inegi.org.mx/programas/mortalidad/#Microdatos>
 
 INEGI, (2021). Nota técnica sobre las estadísticas de defunciones
 registradas 2020. Disponible en:\
 <https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2020_nota_tecnica.pdf>
+
+INEGI, (2022). Mortalidad.\
+https://www.inegi.org.mx/programas/mortalidad/\#Tabulados
 
 OPS, (2020), Mejorar la vigilancia de la mortalidad por COVID-19 en
 América Latina y el Caribe mediante la vigilancia de la mortalidad por
