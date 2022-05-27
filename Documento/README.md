@@ -1,6 +1,6 @@
 ## Primer borrador del análisis de esperanza de vida por el impacto de mortalidad producida por la pandemia del Covid-19 a nivel estatal
 
-**24 de Febrero de 2022**
+**24 de febrero de 2022**
 
 ÍNDICE
 =========
@@ -433,8 +433,8 @@ Las defunciones causadas por enfermedades del hígado presentaron una
 tasa igual respecto al año anterior con un aumento de 50 casos.
 
 **Tasas de defunciones por enfermedades del hígado por cada 10,000 habitantes**[^14]
-![](media/image18.png){width="5.770833333333333in", height="1.75in"}
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021*
+![](media/image18.png){width="5.7in", height="1.75in"}
+**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**
 **Nota: Información preliminar.**
 
 El denominador de la tasa para el periodo 2020 corresponde a las
@@ -452,7 +452,7 @@ presentado.
 
 **Tasas de defunciones por enfermedades cerebrovasculares por cada 10,000 habitantes**
 ![](media/image19.png){width="5.8n", height="1.6in"}
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021*
+**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**
 **Nota: Información preliminar.**
 
 El denominador de la tasa para el periodo 2020 corresponde a las
@@ -469,7 +469,7 @@ ligero descenso respecto a 2019 y 2020.
 
 **Tasas de defunciones por agresiones (homicidios) por cada 10,000 habitantes**
 ![](media/image20.png){width="6.1in",height="1.9in"}
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021*
+**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**
 **Nota: Información preliminar.**
 
 El denominador de la tasa para el periodo 2020 corresponde a las
@@ -633,7 +633,7 @@ de mortalidad en este apartado es de 133 defunciones que representan
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**
 ![](media/image29.png){width="6.0in" height="2.2in"}
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
-**Nota: Información preliminar.*
+**Nota: Información preliminar.**
 
 Exceso de mortalidad por agresiones (homicidios).
 -------------------------------------------------
@@ -645,7 +645,7 @@ total de 2,166 decesos que equivalen a 4.0% por debajo de lo esperado.
 **Exceso de mortalidad por agresiones (homicidios)**
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**
 ![](media/image30.png){width="6.0in", height="2.1in"}
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021*
+**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
 **Nota: Información preliminar.**
 
 Exceso de mortalidad por accidentes.
@@ -701,39 +701,39 @@ Guanajuato.
 Bibliografía
 ============
 
-Inegi (2022). Mortalidad.\
-**https://www.inegi.org.mx/programas/mortalidad/\#Tabulados**
-
-**Grupo Interinstitucional, (2022). Boletines Estadísticos sobre el
+Grupo Interinstitucional, (2022). Boletines Estadísticos sobre el
 exceso de mortalidad por todas las causas durante la emergencia por
 COVID-19. Grupo interinstitucional para la estimación del exceso de
 mortalidad por todas las causas. (Serie 1 a 28). Disponible en:
-<https://coronavirus.gob.mx/personal-de-salud/documentos-de-consulta/>**
+<https://coronavirus.gob.mx/personal-de-salud/documentos-de-consulta/>
 
-**INEGI, (2018). Nota técnica sobre las estadísticas de defunciones
+INEGI, (2022). Mortalidad.\
+https://www.inegi.org.mx/programas/mortalidad/\#Tabulados
+
+INEGI, (2018). Nota técnica sobre las estadísticas de defunciones
 registradas 2017. Disponible en:\
-**<https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2017_nota_tecnica.pdf>
+<https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2017_nota_tecnica.pdf>
 
-**INEGI, (2019). Nota técnica sobre las estadísticas de defunciones
+INEGI, (2019). Nota técnica sobre las estadísticas de defunciones
 registradas 2018. Disponible en:\
-**<https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2018_nota_tecnica.pdf>
+<https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2018_nota_tecnica.pdf>
 
-**INEGI, (2020). Nota técnica sobre las estadísticas de defunciones
+INEGI, (2020). Nota técnica sobre las estadísticas de defunciones
 registradas 2019. Disponible en:\
-**<https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2019_nota_tecnica.pdf>
+<https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2019_nota_tecnica.pdf>
 
-**INEGI. (2021), Defunciones registradas (mortalidad general) -
+INEGI. (2021), Defunciones registradas (mortalidad general) -
 Microdatos. Disponible en:
 <https://www.inegi.org.mx/programas/mortalidad/#Microdatos>**
 
-**INEGI, (2021). Nota técnica sobre las estadísticas de defunciones
+INEGI, (2021). Nota técnica sobre las estadísticas de defunciones
 registradas 2020. Disponible en:\
-**<https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2020_nota_tecnica.pdf>
+<https://www.inegi.org.mx/contenidos/programas/mortalidad/doc/defunciones_registradas_2020_nota_tecnica.pdf>
 
-**OPS. (2020), Mejorar la vigilancia de la mortalidad por COVID-19 en
+OPS, (2020), Mejorar la vigilancia de la mortalidad por COVID-19 en
 América Latina y el Caribe mediante la vigilancia de la mortalidad por
 todas las causas - Documento de orientación. Mayo 2020. Disponible en:\
-**<https://iris.paho.org/bitstream/handle/10665.2/52309/OPSIMSPHECOVID-19200035_spa.pdf?sequence=9&isAllowed=y>
+<https://iris.paho.org/bitstream/handle/10665.2/52309/OPSIMSPHECOVID-19200035_spa.pdf?sequence=9&isAllowed=y>
 
 Anexos
 ======
@@ -945,17 +945,16 @@ publicadas en octubre de 2022.
 
 [^14]: Las cifras definitivas resultarán del proceso de confronta entre
     la Secretaría de Salud y el INEGI y serán publicadas en octubre de
-    2022.
-
-    > La tasa de defunciones registradas por cada 10,000 habitantes se
-    > presenta como referencia para facilitar la comparación entre años.
-    > El estudio de la mortalidad requiere la consideración de las
-    > defunciones ocurridas en un año determinado. El denominador de la
-    > tasa para el periodo 2012-2020 corresponde a las proyecciones de
-    > población 2016-2050 de CONAPO y a la Conciliación Demográfica de
-    > México, 1950-2015. Para el cálculo de la tasa de 2021, ésta se
-    > ajusta a la estimación de población elaborada por el INEGI con
-    > base en el Marco de Muestreo de Viviendas.
+    2022.\
+    La tasa de defunciones registradas por cada 10,000 habitantes se
+    presenta como referencia para facilitar la comparación entre años.
+    El estudio de la mortalidad requiere la consideración de las
+    defunciones ocurridas en un año determinado. El denominador de la
+    tasa para el periodo 2012-2020 corresponde a las proyecciones de
+    población 2016-2050 de CONAPO y a la Conciliación Demográfica de
+    México, 1950-2015. Para el cálculo de la tasa de 2021, ésta se
+    ajusta a la estimación de población elaborada por el INEGI con
+    base en el Marco de Muestreo de Viviendas.
 
 [^15]: *Mejorar la vigilancia de la mortalidad por COVID-19 en América
     Latina y el Caribe mediante la vigilancia de la mortalidad por todas
