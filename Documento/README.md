@@ -1,14 +1,9 @@
-Primer borrador del análisis de esperanza de vida por el impacto de
+## Primer borrador del análisis de esperanza de vida por el impacto de
 mortalidad producida por la pandemia del Covid-19 a nivel estatal
 
 **24 de Febrero de 2022**
 
-**\
-**
-
 ÍNDICE
-
-Contenido  {#contenido .TOC-Heading}
 =========
 
 [Antecedentes 4](#antecedentes)
@@ -95,8 +90,6 @@ muerte
 
 [Anexos 32](#anexos)
 
-**\
-**
 
 Antecedentes
 ============
@@ -223,9 +216,6 @@ En el periodo de referencia, las tres principales causas de muerte a
 nivel nacional fueron: COVID-19 (145,159; 25.0%), enfermedades del
 corazón (113,899; 19.7%), y diabetes mellitus (74,418; 12.8%).
 
-**\
-**
-
 **Diez principales causas**[^5] **de muerte desglosadas por sexo\
 Enero -- junio 2021^p^**
 
@@ -310,9 +300,6 @@ height="6.249305555555556in"}**Fuente: Estadísticas de defunciones
 registradas, enero-junio 2021^p\
 ^Nota: p Información preliminar.**
 
-**\
-**
-
 +----------------------------------+----------------------------------+
 | **Tasa de defunciones            | **Tasa de defunciones            |
 | registradas por entidad          | registradas por entidad          |
@@ -390,9 +377,6 @@ frecuencias correspondientes a las defunciones por edad a causa de la
 COVID-19[^13]. El valor en años para la media es de 63.5, la moda 65, la
 mediana 64 y la desviación estándar de 14.3.
 
-**\
-**
-
 **Defunciones por la COVID-19 por edad**
 
 ![](media/image13.png){width="6.083333333333333in"
@@ -418,9 +402,6 @@ Demográfica de México, 1950-2015. Para el cálculo de la tasa de 2021,
 ésta se ajusta a la estimación de población elaborada por el INEGI con
 base en el Marco de Muestreo de Viviendas.\
 Nota: p Información preliminar.
-
-**\
-**
 
 Defunciones por diabetes mellitus
 ---------------------------------
@@ -527,9 +508,6 @@ Defunciones por agresiones (homicidios)
 
 En las defunciones ocurridas en el 2021 por esta causa se aprecia un
 ligero descenso respecto a 2019 y 2020.
-
-**\
-**
 
 **Tasas de defunciones por agresiones (homicidios) por cada 10,000
 habitantes**
