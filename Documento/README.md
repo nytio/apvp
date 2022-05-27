@@ -250,7 +250,7 @@ años.
 **Tasas de defunción por grupos de edad por cada 1,000 habitantes**[^6]
 **2020-2021, enero -- junio**
 
-![](media/image5.png){width="6.2in" height="2.4in"}
+![](media/image5.png){width="6.2in",height="2.4in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021.**
 **Nota: Información preliminar.**
 
@@ -260,7 +260,7 @@ no se especificó el sexo (0.1%).
 
 **Defunciones registradas por sexo**
 
-![](media/image6.png){width="2.4in", height="2.2395833333333335in"}
+![](media/image6.png){width="2.4in",height="2.2in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
@@ -274,8 +274,7 @@ residencia habitual de la persona fallecida.
 
 **Defunciones registradas por entidad federativa de registro según sexo**[^7]
 **de la persona fallecida**
-![](media/image7.png){width="4.885416666666667in"
-height="5.916666666666667in"}
+![](media/image7.png){width="4.8in",height="5.9in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021.**
 **Nota: Información preliminar.**
 
@@ -284,14 +283,6 @@ height="5.916666666666667in"}
 ![](media/image8.png){width="4.6in", height="6.2in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
-
-+----------------------------------+----------------------------------+
-|           |             |
-|        |           |
-|      |         |
-|          |   |
-|                                  | **              |
-|             |                                  |
 
 **Tasa de defunciones registradas por entidad federativa de ocurrencia por cada 10,000 habitantes**
 **Enero-junio 2021** 
