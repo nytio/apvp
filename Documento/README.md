@@ -176,11 +176,11 @@ defunciones y ocurrieron 1,649,031. Con base en estos resultados
 se tiene un exceso de mortalidad por todas las causas de 532,549,
 equivalente a 47.7 por ciento.
 
-**Exceso de mortalidad por todas las causas**
-**(semana epidemiológica 01 de 2020 a la 25 de 2021)**
-[](media/image2.png){width="5.1in", height="1.8in"}
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**
-**Nota: Información preliminar.**
+**Exceso de mortalidad por todas las causas**\
+**(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
+[](media/image2.png)\
+**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
+**Nota: Información preliminar.**~
 
 Causas de muerte
 ----------------
