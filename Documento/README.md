@@ -724,9 +724,9 @@ condensada de las defunciones registradas en el país.
 
 Para la determinación de las principales causas de defunción se emplea
 la Lista Mexicana, elaborada para esos fines por el Centro Mexicano
-para la Clasificación de Enfermedades (CEMECE), **la cual corresponde a
+para la Clasificación de Enfermedades (CEMECE), la cual corresponde a
 una clasificación nacional que agrupa a la CIE-10 conforme a los
-siguientes criterios.**
+siguientes criterios.
 
 1.  Para identificar las 20 principales causas, se realizan los
     siguientes agrupamientos con base en los códigos de la Lista
