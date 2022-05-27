@@ -286,16 +286,22 @@ height="5.916666666666667in"}
 **Nota: Información preliminar.**
 
 +----------------------------------+----------------------------------+
-| **Tasa de defunciones            | **Tasa de defunciones            |
-| registradas por entidad          | registradas por entidad          |
-| federativa de ocurrencia por     | federativa de residencia         |
-| cada 10,000 habitantes**         | habitual del fallecido por cada  |
-|                                  | 10,000 habitantes**              |
-| **Enero-junio 2021**          |                                  |
-|                                  | **Enero-junio 2021**          |
-+----------------------------------+----------------------------------+
+|           |             |
+|        |           |
+|      |         |
+|          |   |
+|                                  | **              |
+|             |                                  |
 
-![](media/image9.png){width="5.0in", height="5.6in"}
+**Tasa de defunciones registradas por entidad federativa de ocurrencia por cada 10,000 habitantes**
+**Enero-junio 2021** 
+![](media/image9a.png){width="5.0in", height="5.6in"}
+**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
+**Nota: Información preliminar.**
+
+**Tasa de defunciones registradas por entidad federativa de residencia habitual del fallecido por cada 10,000 habitantes**
+**Enero-junio 2021** 
+![](media/image9b.png){width="5.0in", height="5.6in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
