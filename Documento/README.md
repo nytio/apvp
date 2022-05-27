@@ -774,61 +774,61 @@ publicadas en octubre de 2022.
 
 **Tabla. Diez principales causas de muerte por grupos de edad.**
 **Preliminar enero-junio 2021.**
-![](media/image34.wmf){width="10.4in",height="5.8in"}
+![](media/image34.png){width="10.4in",height="5.8in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
 **Tabla. Diez principales causas de muerte en mujeres por grupos de edad.**
 **Preliminar enero-junio 2021.**
-![](media/image35.wmf){width="10.4in",height="5.8in"}
+![](media/image35.png){width="10.4in",height="5.8in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
 **Tabla. Diez principales causas de muerte en hombres por grupos de edad.**
 **Preliminar enero-junio 2021.**
-![](media/image36.wmf){width="10.3in",height="5.7in"}
+![](media/image36.png){width="10.3in",height="5.7in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**
 **Preliminar enero-junio 2021.**
-![](media/image37.wmf){width="5.2in",height="7.2in"}
+![](media/image37.png){width="5.2in",height="7.2in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**
 **Preliminar enero-junio2021.**
-![](media/image38.wmf){width="5.4in",height="7.6in"}
+![](media/image38.png){width="5.4in",height="7.6in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**
 **Preliminar enero-junio 2021.**
-![](media/image39.wmf){width="5.4in",height="7.6in"}
+![](media/image39.png){width="5.4in",height="7.6in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**
 **Preliminar enero-junio 2021.**
-![](media/image40.wmf){width="5.4in",height="7.58in"}
+![](media/image40.png){width="5.4in",height="7.58in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**
 **Preliminar enero-junio 2021.**
-![](media/image41.wmf){width="5.4in",height="7.5in"}
+![](media/image41.png){width="5.4in",height="7.5in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021
 **Nota: Información preliminar.**
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**
 **Preliminar enero-junio 2021.**
-![](media/image42.wmf){width="5.4in",height="7.5in"}
+![](media/image42.png){width="5.4in",height="7.5in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**
 **Preliminar enero-junio 2021.**
-![](media/image43.wmf){width="5.4in",height="7.5in"}
+![](media/image43.png){width="5.4in",height="7.5in"}
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**
 **Nota: Información preliminar.**
 
