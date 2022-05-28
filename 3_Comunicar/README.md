@@ -182,6 +182,11 @@ equivalente a 47.7 por ciento.
 *Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
 *Nota: Información preliminar.*
 
+**Fallecimientos diarios COVID-19**\
+![](media/image2b.png)\
+*Fuente: Tablero CONACYT Consultado el 27 de Mayo del 2022.*\
+*Nota: Información preliminar.*
+
 Causas de muerte
 ----------------
 

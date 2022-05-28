@@ -25,9 +25,9 @@ base_grafica |>
 #Fallecimientos diarios COVID-19
 #Datos para el Estado de Guanajuato
 #Fuente: Tablero CONACYT Consultado el 27 de Mayo del 2022
-ggsave("3_Comunicar/media/image2.png",
+ggsave("3_Comunicar/media/image2b.png",
        width = 5.17,
-       height = 1.82,
+       height = 4.1,
        units = "in")
 
 
