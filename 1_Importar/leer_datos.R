@@ -26,8 +26,8 @@ base_grafica |>
 #Datos para el Estado de Guanajuato
 #Fuente: Tablero CONACYT Consultado el 27 de Mayo del 2022
 ggsave("3_Comunicar/media/image2.png",
-       width = 5,
-       height = 4,
+       width = 5.17,
+       height = 1.82,
        units = "in")
 
 
