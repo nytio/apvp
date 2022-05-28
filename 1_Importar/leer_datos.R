@@ -18,17 +18,18 @@ base_grafica <- f_gto |>
 base_grafica |> 
   ggplot(aes(x = fecha, y = fallecimientos_diarios)) + 
   geom_col() + 
-  labs(title = "Fallecimientos diarios COVID-19", 
-       subtitle = "Datos para el Estado de Guanajuato", 
-       x = "Fecha", y = "Fallecimientos", 
-       caption = "Fuente: Tablero CONACYT Consultado el 27 de Mayo del 2022") + 
+  labs(x = "Fecha", y = "Fallecimientos") + 
   scale_x_date(breaks = "2 months") + 
   theme(axis.text.x =  element_text(angle = 90))
 
+#Fallecimientos diarios COVID-19
+#Datos para el Estado de Guanajuato
+#Fuente: Tablero CONACYT Consultado el 27 de Mayo del 2022
 ggsave("3_Comunicar/media/image2.png",
-       width = 5.17361,
-       height = 1.82222,
+       width = 5,
+       height = 4,
        units = "in")
+
 
 # Descarga los datos de mortalidad del servidor de Inegi
 curl::curl_download("https://www.inegi.org.mx/contenidos/programas/mortalidad/microdatos/defunciones/2020/defunciones_base_datos_2020_dbf.zip",
