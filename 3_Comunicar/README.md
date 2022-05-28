@@ -149,7 +149,7 @@ estadísticos proporcionados por las Agencias del Ministerio Público.
 
 **Defunciones registradas de enero a junio**\
 ![](media/image1.png)\
-*Fuente: Estadísticas de defunciones registradas, enero-junio 2021*\
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
 *Nota: Información preliminar.*
 
 Durante el periodo enero-junio de 2021, 58.1% (337,100) de las
@@ -179,7 +179,7 @@ equivalente a 47.7 por ciento.
 **Exceso de mortalidad por todas las causas**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image2.png)\
-*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021*\
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
 *Nota: Información preliminar.*
 
 Causas de muerte
@@ -189,11 +189,11 @@ En el periodo de referencia, las tres principales causas de muerte a
 nivel nacional fueron: COVID-19 (145,159; 25.0%), enfermedades del
 corazón (113,899; 19.7%), y diabetes mellitus (74,418; 12.8%).
 
-**Diez principales causas[^5] de muerte desglosadas por sexo*\
+**Diez principales causas[^5] de muerte desglosadas por sexo**\
 **Enero -- junio 2021**\
 [](media/image3.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021.**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 Para generar la información definitiva, se realizarán como cada año,
 confrontas con la Secretaría de Salud para cuatro grupos: defunciones
@@ -219,8 +219,8 @@ registradas durante de enero a junio de 2020.
 
 **Defunciones registradas**\
 ![](media/image4.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 Las tasas de defunción por cada 1,000 habitantes comienzan a
 diferenciarse entre 2020 y 2021, a partir del grupo de edad de 45 a 54
@@ -229,8 +229,8 @@ años.
 **Tasas de defunción por grupos de edad por cada 1,000 habitantes**[^6]\
 **2020-2021, enero -- junio**\
 ![](media/image5.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021.**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 En el primer semestre de 2021, del total de las defunciones registradas
 de forma preliminar, 58.1% fueron hombres, 41.8% mujeres y en 340 casos
@@ -238,8 +238,8 @@ no se especificó el sexo (0.1%).
 
 **Defunciones registradas por sexo**\
 ![](media/image6.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 Enero fue el mes que presentó el mayor número de defunciones
 registradas con 162,734 casos (28.1%), seguido de febrero con 115,560
@@ -249,29 +249,27 @@ En las siguientes gráficas, se presenta la distribución de las
 defunciones por la entidad federativa de registro y por la entidad de
 residencia habitual de la persona fallecida.
 
-**Defunciones registradas por entidad federativa de registro según sexo**[^7]\
-**de la persona fallecida**\
+**Defunciones registradas por entidad federativa de registro según sexo[^7] de la persona fallecida**\
 ![](media/image7.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021.**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
-**Defunciones por entidad federativa de residencia habitual y sexo**[^8]\
-**de la persona fallecida**\
+**Defunciones por entidad federativa de residencia habitual y sexo[^8]\ de la persona fallecida**\
 ![](media/image8.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tasa de defunciones registradas por entidad federativa de ocurrencia por cada 10,000 habitantes**\
 **Enero-junio 2021**\
 ![](media/image9a.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tasa de defunciones registradas por entidad federativa de residencia habitual del fallecido por cada 10,000 habitantes**\
 **Enero-junio 2021**\
 ![](media/image9b.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -285,11 +283,10 @@ Causas de la defunción
 Las diez principales causas de defunción se presentan a continuación,
 desglosadas por sexo.
 
-**Diez principales causas**[^9]\
-**de muerte desglosadas por sexo Enero-junio 2021**\
+**Diez principales causas[^9]\ de muerte desglosadas por sexo Enero-junio 2021**\
 ![](media/image10.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 Para generar la información definitiva, se realizarán como cada año,
 confrontas con la Secretaría de Salud para cuatro grupos: defunciones
@@ -305,11 +302,10 @@ En la información preliminar del primer semestre de 2021, la COVID-19
 ocupó el primer lugar dentro de las diez principales causas de muerte a
 nivel general y por sexo.
 
-**Tasas de defunciones por la COVID-19 por cada 10,000 habitantes**[^10]\
-**por grupos de edad Enero - junio**\
+**Tasas de defunciones por la COVID-19 por cada 10,000 habitantes[^10]\ por grupos de edad Enero - junio**\
 ![](media/image11.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2020 y 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2020 y 2021*\
+*Nota: Información preliminar.*
 
 ### Defunciones ocurridas por la COVID-19 por semana epidemiológica
 
@@ -319,8 +315,8 @@ La gráfica siguiente muestra las defunciones por la COVID-19 de enero de
 
 **Defunciones por la COVID-19 por semana epidemiológica (Enero 2020 - junio 2021)** [^12]\
 ![](media/image12.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Asimismo, la siguiente gráfica muestra la distribución de las
 frecuencias correspondientes a las defunciones por edad a causa de la
@@ -329,8 +325,8 @@ mediana 64 y la desviación estándar de 14.3.
 
 **Defunciones por la COVID-19 por edad**\
 ![](media/image13.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Defunciones por enfermedades del corazón
 ----------------------------------------
@@ -340,8 +336,8 @@ muerte en el total y por sexo.
 
 **Tasas de defunciones por enfermedades del corazón por cada 10,000 habitantes**\
 ![](media/image14.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -358,8 +354,8 @@ mujeres.
 
 **Tasas de defunciones por diabetes mellitus por cada 10,000 habitantes**\
 ![](media/image15.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -376,8 +372,8 @@ referencia en el del año inmediato anterior.
 
 **Tasas de defunciones por tumores malignos por cada 10,000 habitantes**\
 ![](media/image16.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -394,8 +390,8 @@ representan 99.8% con 20,916 sucesos.
 
 **Tasas de defunciones por influenza y neumonía por cada 10,000 habitantes**\
 ![](media/image17.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -411,8 +407,8 @@ tasa igual respecto al año anterior con un aumento de 50 casos.
 
 **Tasas de defunciones por enfermedades del hígado por cada 10,000 habitantes**[^14]\
 ![](media/image18.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -429,8 +425,8 @@ presentado.
 
 **Tasas de defunciones por enfermedades cerebrovasculares por cada 10,000 habitantes**\
 ![](media/image19.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -446,8 +442,8 @@ ligero descenso respecto a 2019 y 2020.
 
 **Tasas de defunciones por agresiones (homicidios) por cada 10,000 habitantes**\
 ![](media/image20.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -464,8 +460,8 @@ periodo de enero a junio del 2021, acercándose a los registrados en
 
 **Tasas de defunciones por accidentes por cada 10,000 habitantes**\
 ![](media/image21.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -482,8 +478,8 @@ presentaron un descenso en los últimos dos años.
 **Tasas de defunciones por enfermedades pulmonares obstructivas crónicas por cada 10,000 habitantes**\
 **Enero-junio (2012-2021) y cierre de año (2012-2020)**\
 ![](media/image22.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2012 a 2021.*\
+*Nota: Información preliminar.*
 
 El denominador de la tasa para el periodo 2020 corresponde a las
 proyecciones de población 2016-2050 de CONAPO y a la Conciliación
@@ -522,8 +518,8 @@ causas de 532,549, equivalente a 47.7 por ciento.
 
 **Exceso de mortalidad por todas las causas (semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image23.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Como parte de los presentes resultados de exceso de mortalidad y para
 los mismos periodos, se realizó la estimación para cada una de las
@@ -540,8 +536,8 @@ exceso de mortalidad en este rubro es de 96,312 decesos que representan
 **Exceso de mortalidad por enfermedades del corazón**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image24.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021*\
+*Nota: Información preliminar.*
 
 Exceso de mortalidad por diabetes mellitus
 ------------------------------------------
@@ -553,8 +549,8 @@ este apartado es de 58,252 decesos que representan 35.3 por ciento.**
 **Exceso de mortalidad por diabetes mellitus**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image25.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Exceso de mortalidad por tumores malignos
 -----------------------------------------
@@ -567,8 +563,8 @@ de mortalidad en este rubro es de 2,179 decesos los cuales representan
 **Exceso de mortalidad por tumores malignos**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image26.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Exceso de mortalidad por influenza y neumonía
 ---------------------------------------------
@@ -581,8 +577,8 @@ por ciento.
 **Exceso de mortalidad por influenza y neumonía**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image27.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021*\
+*Nota: Información preliminar.*
 
 Exceso de mortalidad por enfermedades del hígado
 ------------------------------------------------
@@ -595,8 +591,8 @@ ciento.
 **Exceso de mortalidad por enfermedades del hígado**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image28.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Exceso de mortalidad por enfermedades cerebrovasculares
 -------------------------------------------------------
@@ -609,8 +605,8 @@ de mortalidad en este apartado es de 133 defunciones que representan
 **Exceso de mortalidad por enfermedades cerebrovasculares**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image29.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Exceso de mortalidad por agresiones (homicidios)
 ------------------------------------------------
@@ -622,8 +618,8 @@ total de 2,166 decesos que equivalen a 4.0% por debajo de lo esperado.
 **Exceso de mortalidad por agresiones (homicidios)**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image30.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Exceso de mortalidad por accidentes
 -----------------------------------
@@ -635,8 +631,8 @@ decesos que equivalen a 14.9% por debajo de lo esperado.
 **Exceso de mortalidad por accidentes**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image31.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Exceso de mortalidad por enfermedades pulmonares obstructivas crónicas
 ----------------------------------------------------------------------
@@ -649,8 +645,8 @@ obstructivas crónicas se esperaban 38,839 defunciones y ocurrieron
 **Exceso de mortalidad por enfermedades pulmonares obstructivas crónicas**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 ![](media/image32.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*\
+*Nota: Información preliminar.*
 
 Comentarios finales
 ===================
@@ -775,68 +771,68 @@ publicadas en octubre de 2022.
 **Tabla. Diez principales causas de muerte por grupos de edad.**
 **Preliminar enero-junio 2021.**\
 ![](media/image34.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tabla. Diez principales causas de muerte en mujeres por grupos de edad.**\
 **Preliminar enero-junio 2021.**\
 ![](media/image35.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
-**Tabla. Diez principales causas de muerte en hombres por grupos de edad.**\
-**Preliminar enero-junio 2021.**\
+*Tabla. Diez principales causas de muerte en hombres por grupos de edad.*\
+*Preliminar enero-junio 2021.*\
 ![](media/image36.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**\
 **Preliminar enero-junio 2021.**\
 ![](media/image37.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**\
 **Preliminar enero-junio2021.**\
 ![](media/image38.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**\
 **Preliminar enero-junio 2021.**\
 ![](media/image39.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**\
 **Preliminar enero-junio 2021.**\
 ![](media/image40.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**\
 **Preliminar enero-junio 2021.**\
 ![](media/image41.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**\
 **Preliminar enero-junio 2021.**\
 ![](media/image42.png)\
-*Fuente: Estadísticas de defunciones registradas, enero-junio 2021*\
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
 *Nota: Información preliminar.*
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**\
 **Preliminar enero-junio 2021.**\
 ![](media/image43.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 **Tabla. Cinco principales causas de muerte por entidad federativa de residencia habitual de la persona fallecida y sexo.**\
 **Preliminar enero-junio 2021.**\
 ![](media/image44.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
+*Nota: Información preliminar.*
 
 [^1]: Las defunciones causadas por la COVID-19 incluyen tanto los casos
     con referencia de virus identificado, como aquellos en los que no
