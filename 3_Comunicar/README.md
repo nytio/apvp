@@ -187,7 +187,8 @@ El exceso de mortalidad se explica, en primera instancia, por los fallecimientos
 |**Fallecimientos diarios COVID-19**|
 |:--:|
 |![](media/image2b.png)|
-|*Fuente: Tablero CONACYT, consultado el 22 de mayo de 2022.*<br>*Nota: Información preliminar.*|
+|*Fuente: Tablero CONACYT, consultado el 22 de mayo de 2022.*<br>
+*Nota: Información preliminar.*|
 
 Causas de muerte
 ----------------
