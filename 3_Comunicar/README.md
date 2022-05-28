@@ -179,7 +179,7 @@ equivalente a 47.7 por ciento.
 |**Exceso de mortalidad por todas las causas**<br />**(semana epidemiológica 01 de 2020 a la 25 de 2021)**|
 |:--:|
 |![](media/image2.png)|
-|*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*<br \~>*Nota: Información preliminar.*|
+|*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*<br />*Nota: Información preliminar.*|
 
 El exceso de mortalidad se explica, en primera instancia, por los fallecimientos por COVID 19, la cual es una causa no existente previamente. Se puede ver en la siguiente gráfica los fallecimientos por COVID-19 en el estado de Guanajuato por semana epidemiológica:
 
