@@ -749,7 +749,8 @@ siguientes criterios.
 | Bronquitis crónica y la no especificada, enfisema y asma | 33D, 33E | 
 | Hernia de la cavidad abdominal        | 35F-35G | 
 | Enfermedades del hígado              | 35L-35M | 
-| Embarazo, parto y puerperio, excepto otras causas obstétricas directas que se incluyen en las demás causas                      | 43-45 (excepto 43R) | 
+| Embarazo, parto y puerperio, excepto otras causas obstétricas 
+directas que se incluyen en las demás causas                      | 43-45 (excepto 43R) | 
 | Ciertas afecciones originadas en el periodo perinatal            | 46 | 
 | Malformaciones congénitas, deformidades y anomalías cromosómicas | 47 | 
 | Accidentes                                         | E49-E53, E57-E58 | 
