@@ -180,7 +180,7 @@ equivalente a 47.7 por ciento.
 
 **Exceso de mortalidad por todas las causas**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
-[](media/image2.png)\
+[](media/image42.png)\
 *Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021*\
 *Nota: Información preliminar.*
 
