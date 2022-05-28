@@ -10,7 +10,7 @@ f_gto <- f_covid |>
   filter(nombre == "GUANAJUATO")
 
 base_grafica <- f_gto |> 
-  pivot_longer(cols = 4:798, 
+  pivot_longer(cols = 4:820, 
                names_to = "fecha", 
                values_to = "fallecimientos_diarios") %>% 
   mutate(fecha = as.Date(fecha, format = "%d-%m-%Y")) 
@@ -29,7 +29,6 @@ ggsave("3_Comunicar/media/image2b.png",
        width = 5.17,
        height = 4.1,
        units = "in")
-
 
 # Descarga los datos de mortalidad del servidor de Inegi
 curl::curl_download("https://www.inegi.org.mx/contenidos/programas/mortalidad/microdatos/defunciones/2020/defunciones_base_datos_2020_dbf.zip",
