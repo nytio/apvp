@@ -25,8 +25,10 @@ base_grafica |>
   scale_x_date(breaks = "2 months") + 
   theme(axis.text.x =  element_text(angle = 90))
 
-ggsave("Documento/media/image2.png")
-
+ggsave("3_Comunicar/media/image2.png",
+       width = 5.17361,
+       height = 1.82222,
+       units = "in")
 
 # Descarga los datos de mortalidad del servidor de Inegi
 curl::curl_download("https://www.inegi.org.mx/contenidos/programas/mortalidad/microdatos/defunciones/2020/defunciones_base_datos_2020_dbf.zip",

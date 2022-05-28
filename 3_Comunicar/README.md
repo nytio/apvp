@@ -147,10 +147,12 @@ del Registro Civil y los Servicios Médicos Forenses, complementados con
 actas de defunción emitidas por el Registro Civil y con los cuadernos
 estadísticos proporcionados por las Agencias del Ministerio Público.
 
+<center>
 **Defunciones registradas de enero a junio**\
 ![](media/image1.png)\
-**Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, enero-junio 2021*\
+*Nota: Información preliminar.*
+</center>
 
 Durante el periodo enero-junio de 2021, 58.1% (337,100) de las
 defunciones correspondieron a hombres, mientras que 41.8% (242,156) a
@@ -176,11 +178,13 @@ defunciones y ocurrieron 1,649,031. Con base en estos resultados
 se tiene un exceso de mortalidad por todas las causas de 532,549,
 equivalente a 47.7 por ciento.
 
+<center>
 **Exceso de mortalidad por todas las causas**\
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 [](media/image2.png)\
-**Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**
+*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021*\
+*Nota: Información preliminar.*
+</center>
 
 Causas de muerte
 ----------------
