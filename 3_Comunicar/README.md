@@ -150,7 +150,7 @@ estadísticos proporcionados por las Agencias del Ministerio Público.
 **Defunciones registradas de enero a junio**\
 ![](media/image1.png)\
 **Fuente: Estadísticas de defunciones registradas, enero-junio 2021**\
-**Nota: Información preliminar.**~
+**Nota: Información preliminar.**
 
 Durante el periodo enero-junio de 2021, 58.1% (337,100) de las
 defunciones correspondieron a hombres, mientras que 41.8% (242,156) a
@@ -180,7 +180,7 @@ equivalente a 47.7 por ciento.
 **(semana epidemiológica 01 de 2020 a la 25 de 2021)**\
 [](media/image2.png)\
 **Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021**\
-**Nota: Información preliminar.**~
+**Nota: Información preliminar.**
 
 Causas de muerte
 ----------------
