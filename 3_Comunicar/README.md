@@ -147,10 +147,11 @@ del Registro Civil y los Servicios Médicos Forenses, complementados con
 actas de defunción emitidas por el Registro Civil y con los cuadernos
 estadísticos proporcionados por las Agencias del Ministerio Público.
 
-**Defunciones registradas de enero a junio**\
-![](media/image1.png)\
-*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*\
-*Nota: Información preliminar.*
+|**Defunciones registradas de enero a junio**|
+|:--:|
+|![](media/image1.png)|
+|*Fuente: Estadísticas de defunciones registradas, enero-junio 2021.*<br />
+*Nota: Información preliminar.*|
 
 Durante el periodo enero-junio de 2021, 58.1% (337,100) de las
 defunciones correspondieron a hombres, mientras que 41.8% (242,156) a
@@ -176,17 +177,18 @@ defunciones y ocurrieron 1,649,031. Con base en estos resultados
 se tiene un exceso de mortalidad por todas las causas de 532,549,
 equivalente a 47.7 por ciento.
 
-|**Exceso de mortalidad por todas las causas**<br />**(semana epidemiológica 01 de 2020 a la 25 de 2021)**|
+|**Exceso de mortalidad por todas las causas**|
 |:--:|
 |![](media/image2.png)|
-|*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021.*<br />*Nota: Información preliminar.*|
+|*Fuente: Estadísticas de defunciones registradas, 2020, enero - junio 2021. (semana epidemiológica 01 de 2020 a la 25 de 2021)*<br />
+*Nota: Información preliminar.*|
 
 El exceso de mortalidad se explica, en primera instancia, por los fallecimientos por COVID 19, la cual es una causa no existente previamente. Se puede ver en la siguiente gráfica los fallecimientos por COVID-19 en el estado de Guanajuato por semana epidemiológica:
 
 |**Fallecimientos diarios COVID-19**|
 |:--:|
 |![](media/image2b.png)|
-|*Fuente: Tablero CONACYT, consultado el 22 de mayo de 2022.*<br />*Nota: Información preliminar.*|
+|*Fuente: Tablero CONACYT, consultado el 30 de mayo de 2022.*|
 
 Causas de muerte
 ----------------
@@ -751,7 +753,8 @@ siguientes criterios.
 | Bronquitis crónica y la no especificada, enfisema y asma | 33D, 33E | 
 | Hernia de la cavidad abdominal        | 35F-35G | 
 | Enfermedades del hígado              | 35L-35M | 
-| Embarazo, parto y puerperio, excepto otras causas obstétricas<br />directas que se incluyen en las demás causas                      | 43-45 (excepto 43R) | 
+| Embarazo, parto y puerperio, excepto otras causas obstétricas<br>
+directas que se incluyen en las demás causas                      | 43-45 (excepto 43R) | 
 | Ciertas afecciones originadas en el periodo perinatal            | 46 | 
 | Malformaciones congénitas, deformidades y anomalías cromosómicas | 47 | 
 | Accidentes                                         | E49-E53, E57-E58 | 
